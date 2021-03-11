@@ -26,7 +26,7 @@
 
 | Automated Testing 	|   	|
 |-------------------	|---	|
-| Unit Tests        	| n 	|
+| Unit Tests        	| (*Good for health care), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI. 	|
 | n                 	| n 	|
 | n                 	| n 	|
 
