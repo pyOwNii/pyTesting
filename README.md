@@ -3,12 +3,14 @@
 
 ## Testing in Python:
 
-[]1.1 Why.
-hh
-[]1.2 Types.
+[]	1.1: Why.
 
-[]2.2 UnitTest
+[]	1.2: Types.
 
-[]2.3 PyTest
+[]	1.3: Vs. Java/(JUnit)
 
-[]
+[]	2.2: UnitTest
+
+[]	2.3: PyTest
+
+
