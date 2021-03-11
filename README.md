@@ -13,10 +13,10 @@
 
 []	1.2: Types of tests.
 
-        - Manual Tests
-        -
-        - Automated Tests
-        - Unit tests (*Good for health care), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI.
+   - Manual Tests
+   -
+   - Automated Tests
+   - Unit tests (*Good for health care), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI.
 
 
 []	1.3: Python Vs. Java/(JUnit) on testing.
