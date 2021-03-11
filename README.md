@@ -3,7 +3,7 @@
 
 ## Introduction
 
-[] 1.1: Why Tests.
+[x] 1.1: Why Tests.
         
         * Summary: Software does what it is supposed to do:
                 - Kostnadseffektiv: If bugs/defects found early in dev-cycle. Costs less if found early on.
@@ -18,10 +18,6 @@
         - Automated Tests
         - Unit tests (*Good for health care), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI.
 
-Manual Testing | Automated Testing
------------- | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
 
 []	1.3: Python Vs. Java/(JUnit) on testing.
 
