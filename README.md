@@ -5,10 +5,11 @@
 
 [] 1.1: Why Tests.
         
-        - a 
-        - b
-        -
-        -
+        * Summary: Software does what it is supposed to do:
+                -
+                - b
+                -
+                -
 
 []	1.2: Types of tests.
 
