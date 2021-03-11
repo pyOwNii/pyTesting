@@ -21,7 +21,7 @@
 
 | Automated Testing 	|   	|
 |-------------------	|---	|
-| Unit Test        	| (*Good for health care*), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI. 	|
+| Unit Test        	       | (*Good for health care*), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI. 	|
 | End-To-End/System Test          	| n 	|
 | Integration Test     	| n 	|
 
