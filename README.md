@@ -6,14 +6,24 @@
 [] 1.1: Why Tests.
         
         * Summary: Software does what it is supposed to do:
-                -
+                - 
                 - b
-                -
-                -
+                - 
+                - 
 
 []	1.2: Types of tests.
 
+        -
+        -
+        -
+        -
+
 []	1.3: Python Vs. Java/(JUnit) on testing.
+
+        -
+        -
+        -
+        -
 
 
 ## Testing in Python:
