@@ -18,6 +18,17 @@
         - Automated Tests
         - Unit tests (*Good for health care), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI.
 
+| Manual Testing 	|   	|
+|----------------	|---	|
+| n              	| n 	|
+| n              	| n 	|
+| n              	| n 	|
+
+| Automated Testing 	|   	|
+|-------------------	|---	|
+| Unit Tests        	| n 	|
+| n                 	| n 	|
+| n                 	| n 	|
 
 []	1.3: Python Vs. Java/(JUnit) on testing.
 
