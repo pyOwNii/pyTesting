@@ -15,15 +15,15 @@
 
 | Manual Testing 	|   	|
 |----------------	|---	|
-| n              	| n 	|
+| Exploratory Testing              	| n 	|
 | n              	| n 	|
 | n              	| n 	|
 
 | Automated Testing 	|   	|
 |-------------------	|---	|
-| Unit Tests        	| (*Good for health care*), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI. 	|
-| n                 	| n 	|
-| n                 	| n 	|
+| Unit Test        	| (*Good for health care*), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI. 	|
+| End-To-End/System Test          	| n 	|
+| Integration Test     	| n 	|
 
 []	1.3: Python Vs. Java/(JUnit) on testing.
 
