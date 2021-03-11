@@ -6,10 +6,10 @@
 [] 1.1: Why Tests.
         
         * Summary: Software does what it is supposed to do:
-                - 
-                - b
-                - 
-                - 
+                - Kostnadseffektiv: If bugs/defects found early in dev-cycle. Costs less if found early on.
+                - Säkerhet: Customer looking for trustworthy products/without problems.
+                - Quality: Testing ensures good quality
+                - Customer Satisfaction: User experience etc. speaks for itself I guess.
 
 []	1.2: Types of tests.
 
