@@ -3,8 +3,9 @@
 
 ## Introduction
 
-[ ]	1.1: Why Tests.
-        *- 
+-[ ]	1.1: Why Tests.
+        
+        - 
         -
         -
         -
