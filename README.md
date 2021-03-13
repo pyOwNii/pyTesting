@@ -22,7 +22,7 @@
 | Automated Testing 	|   	|
 |-------------------	|---	|
 | Unit Test        	       | (*Good for health care*), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI. 	|
-| End-To-End/System Test          	| n 	|
+| End-To-End/System Test          	| Simulates and tests a user story. An example that a user "can login" etc, to ensure a bug free experience.	|
 | Integration Test     	| n 	|
 
 []	1.3: Python Vs. Java/(JUnit) on testing.
