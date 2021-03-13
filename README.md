@@ -1,7 +1,7 @@
 # pyTesting
 
 
-## Introduction
+## 1. Introduction
 
 [x] 1.1: Why Tests.
         
@@ -33,14 +33,15 @@
         -
 
 
-## Testing in Python:
+## 2. Testing in Python:
 
 []	2.2: UnitTest
 
 []	2.3: PyTest
 
-[]  2.4: Selenium
+## 3. Testing Frameworks 
 
-[]
+[]      3.1: Selenium
+
 
 
