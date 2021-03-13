@@ -15,9 +15,9 @@
 
 | Manual Testing 	|   	|
 |----------------	|---	|
-| Exploratory Testing              	| n 	|
-| n              	| n 	|
-| n              	| n 	|
+| Exploratory Testing              	| Random tests that are unscripted to find bugs or unintended behaviour	|
+| Usability/Visual regression Testing              	| UI elements, mispositions, wrong fonts etc. 	|
+
 
 | Automated Testing 	|   	|
 |-------------------	|---	|
