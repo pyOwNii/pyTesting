@@ -11,7 +11,7 @@
                 - Quality: Testing ensures good quality
                 - Customer Satisfaction: User experience etc. speaks for itself I guess.
 
-[]	1.2: Types of tests.
+[x]	1.2: Types of tests.
 
 | Manual Testing 	|   	|
 |----------------	|---	|
@@ -25,12 +25,12 @@
 | End-To-End/System Test          	| Simulates and tests a user story. An example that a user "can login" etc, to ensure a bug free experience.	|
 | Integration Test     	| Testing for example the connectivity and data transfer between implemented modules. 	|
 
-[]	1.3: Python Vs. Java/(JUnit) on testing.
+[]	1.3: Python Vs. Java on testing.
 
-        -
-        -
-        -
-        -
+        - Depending on framework, for example on selenium/webdriver both can be used independent on the code the software was programmed in.
+        - .py is easier than java. (shorter syntax(es), understandable code, "more" web support)
+        - .py has broader range of "usability" like testing security, 
+        - Java pros; better IDE, more people has knowledge of Java, could lead to an inhouse support if neccessary, depending on language used by the devs.
 
 
 ## 2. Testing in Python:
