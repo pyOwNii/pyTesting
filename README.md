@@ -25,7 +25,7 @@
 | End-To-End/System Test          	| Simulates and tests a user story. An example that a user "can login" etc, to ensure a bug free experience.	|
 | Integration Test     	| Testing for example the connectivity and data transfer between implemented modules. 	|
 
-[]	1.3: Python Vs. Java on testing.
+[x]	1.3: Python Vs. Java on testing.
 
         - Depending on framework, for example on selenium/webdriver both can be used independent on the code the software was programmed in.
         - .py is easier than java. (shorter syntax(es), understandable code, "more" web support)
