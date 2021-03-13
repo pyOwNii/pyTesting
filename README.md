@@ -23,7 +23,7 @@
 |-------------------	|---	|
 | Unit Test        	       | (*Good for health care*), tests an individual function, that the function matches the expected outcome. Cheap and easy to implement with high ROI. 	|
 | End-To-End/System Test          	| Simulates and tests a user story. An example that a user "can login" etc, to ensure a bug free experience.	|
-| Integration Test     	| Testing the connectivity and data transfer between implemented modules. 	|
+| Integration Test     	| Testing for example the connectivity and data transfer between implemented modules. 	|
 
 []	1.3: Python Vs. Java/(JUnit) on testing.
 
