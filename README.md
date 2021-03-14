@@ -35,13 +35,15 @@
 
 ## 2. Testing in Python:
 
-[]	2.2: UnitTest
+[]	2.2: unittest
+                - Most common module for testing with python.
+                -
 
-[]	2.3: PyTest
+[]	2.3: 
 
 ## 3. Testing Frameworks 
 
-[]      3.1: Selenium
+[]      3.1: Scripting in Selenium
 
 
 
