@@ -36,8 +36,9 @@
 ## 2. Testing in Python:
 
 []	2.2: unittest
+
                 - Most common module for testing with python.
-                -
+                - Also possible to use with frameworks such as selenium
 
 []	2.3: 
 
