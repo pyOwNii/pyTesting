@@ -44,7 +44,7 @@
 
 ## 3. Testing Frameworks 
 
-[]      3.1: Scripting in Selenium
+[]      3.1: Scripting in Selenium webdriver
 
 
 
